@@ -39,9 +39,23 @@ My current interests include Apple-platform development, Swift and SwiftUI, deve
 ## Tech Stack
 
 <div align="center">
+  
+### Core Stack
 
-[![My Skills](https://skillicons.dev/icons?i=swift,apple,py,java,html,css,js,git,github,linux,docker,cloudflare,raspberrypi,blender&perline=14)](https://skillicons.dev)
+[![Core Skills](https://skillicons.dev/icons?i=swift,apple,py,java,kotlin,androidstudio,html,css,js,git,github&perline=11)](https://skillicons.dev)
+<br>
+**Swift · Apple Platforms · Python · Java · Kotlin · Android · HTML · CSS · JavaScript · Git · GitHub**
+</div>
 
+---
+
+## Exploring
+
+<div align="center">
+  
+[![Exploring](https://skillicons.dev/icons?i=docker,linux,cloudflare,raspberrypi,blender&perline=5)](https://skillicons.dev)
+<br>
+**Docker · Linux · Cloudflare · Raspberry Pi · Blender**
 </div>
 
 ---
